@@ -17,7 +17,7 @@ npm install gh-pages
   },
 ```
 3. Modificar o arquivo `package.json` para incluir a `homepage` do projeto, conforme instruções do github Pages no formato `{user/namespace}.gihub.io/{repositório}`, como no exemplo abaixo:
-   ```JSON
+```JSON
    {
 
    "name" : "nome do meu projeto",
@@ -25,7 +25,7 @@ npm install gh-pages
    "version": "0.1.0"
    ...
    }
-   ```
+ ```
 4. Modificar a entrada do script start para ignorar a `homepage` durante o desenvolvimento local. A seção `scripts` deve ficar assim:
 ```JSON
   "scripts": {
