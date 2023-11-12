@@ -65,5 +65,8 @@ npm run deploy
 Obs.: O comando de `deploy` cria uma branch `gh-pages`, faz o deploy e publica a aplicação. Essa branch deve ser a configurada no GitHub Pages
 
 ## Referências:
+Repositório de exemplo: 
+https://github.com/EduardoMangeli/react-github-pages
+
 Tutorial Completo que inclui a criação da aplicação react:
 https://github.com/gitname/react-gh-pages
